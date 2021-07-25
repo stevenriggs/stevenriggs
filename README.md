@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Steve! I'm a **Fullstack Web Developer**, **DevOps Engineer**, and **Apple Mac and iOS Developer**. I work for University of Kentucky HeathCare.  I'm also the creator of TimeTable for the Mac platform.  I like code and infrastructure.
+I'm Steve! I'm a **Fullstack Web Developer**, **DevOps Engineer**, and **Apple Mac and iOS Developer**. I work for University of Kentucky HeathCare.  I'm also the creator of TimeTable for the Mac platform.  I'm into UI/UX design, code and infrastructure too.
 
 <h3>Github Stats:</h3>
 <div align="left">
