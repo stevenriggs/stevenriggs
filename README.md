@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<h3>Github Stats:</h3>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=stevenriggs&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=212121">
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenriggs&langs_count=7&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=212121">
+  <img src="https://github-profile-trophy.vercel.app/?username=stevenriggs&theme=oldie&column=3&margin-w=20&margin-h=20">
+</div>
+
 <!--
 **stevenriggs/stevenriggs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
