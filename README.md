@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi, I'm Steve! I'm a **Fullstack Web Developer**, **DevOps Engineer**, and **Apple Mac and iOS Developer**. I work for University of Kentucky HeathCare.  I'm also the creator of TimeTable for the Mac platform.  I like code and infrastructure.
+
 <h3>Github Stats:</h3>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=stevenriggs&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=212121">
